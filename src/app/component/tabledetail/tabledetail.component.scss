@@ -1,0 +1,66 @@
+table {
+    width: 100%;
+}
+th,td {
+    cursor: pointer;
+}
+
+.filter {
+    padding: 20px;
+}
+mat-form-field{
+    width: 100%;
+
+}
+.mat-elevation-z8 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.mat-button {
+    background-color: purple;
+    font-size: 20px;
+    margin: 5px;
+    color: white;
+    margin-left: 20px;
+}
+.mat-button:hover {
+    background-color: rgb(233, 223, 233);
+    font-size: 20px;
+    margin: 5px;
+    color: purple;
+    margin-left: 20px;
+}
+.perx{
+    padding: 20px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+h4 {
+    padding: 20px;
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+h4:hover {
+    padding: 20px;
+    border: 1px rgb(153, 149, 149) solid;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: rgb(248, 248, 248);
+    color: rgb(29, 25, 25);
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+.example-sidenav-content {
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
